@@ -77,10 +77,19 @@ Tel est mon labeur, tu sais de qui je défends l'honneur<br>
 </h4>
 <h4 style="color:blue;">L'École du micro d'argent<br />
 L'École du micro d'argent<br /></h4>
+<h4 style="color:green;">
+Je représente<br>
+</h4>
 <h4 style="color:blue;">L'École du micro d'argent<br />
 L'École du micro d'argent<br /></h4>
+<h4 style="color:green;">
+Je représente<br>
+</h4>
 <h4 style="color:blue;">L'École du micro d'argent<br />
 L'École du micro d'argent<br /></h4>
+<h4 style="color:green;">
+Je représente<br>
+</h4>
 <h4 style="color:blue;">L'École du micro d'argent<br />
 L'École du micro d'argent<br /></h4>
 
